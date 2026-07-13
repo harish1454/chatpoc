@@ -6,6 +6,8 @@ A proof-of-concept chat application.
 
 This project is a chat POC exploring real-time messaging functionality.
 
+ 
+
 ## Getting Started
 
 ### Prerequisites
