@@ -1,10 +1,10 @@
 # chatpoc
 
-A proof-of-concept chat application.
+A proof-of-concept chat application exploring real-time messaging.
 
 ## Overview
 
-This project is a chat POC exploring real-time messaging functionality.
+This project is a chat POC for experimenting with real-time messaging functionality.
 
  
 
